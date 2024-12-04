@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grocery List</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .pad {
+            padding: 10px;
+        }
+
+        .brd {
+            border: 1px solid black;
+        }
+
+        .box1 {
+            background-color: cornsilk;
+            width: 46%; 
+            vertical-align: top;
+            margin-left: 15px; 
+            margin-bottom: 5px;
+            padding-left: 0;
+        }
+
+        .box2 {
+            background-color: lightgray;
+            width: 25%; /* Make boxes equal width */
+            vertical-align: top; /* Align boxes to the top */
+        }
+
+        .image-box {           
+            vertical-align: middle;
+            width: 25%;
+            padding: 10px;
+            border: 1px solid black;
+        }
+    </style>
+
+    <link rel="stylesheet" href="grocery-list.css">
+</head>
+
+<body>
+
+    <h1 class="center" style="color: rgb(13, 159, 243);">
+        Mohamed's Very Organized Grocery List
+    </h1>
+
+    <section>
+        <h2 class="box1 brd pad" style="font-size: 35px;">
+            PANTRY ITEMS
+        </h2>
+
+        <!-- Table to align CANNED, DRY GOODS, and the image in a single row -->
+        <table >
+            <tr>
+                <td class="box2 pad">
+                    <h3>CANNED</h3>
+                    <ul type="disc">
+                        <li>Corn</li>
+                        <li>Tuna</li>
+                        <li>Green Beans</li>
+                        <li>Beans</li>
+                    </ul>
+                </td>
+
+                <td class="box2 pad">
+                    <h3>DRY GOODS</h3>
+                    <ul type="disc">
+                        <li>Rice</li>
+                        <li>Lentils</li>
+                        <li>Oats</li>
+                        <li>Pancake Mix</li>
+                    </ul>
+                </td>
+
+                <!-- Image Box -->
+                <td class="image-box">
+                    <img src="https://preview.redd.it/drawing-i-did-of-david-corenswet-as-superman-what-do-you-v0-r9iutd2jqhbd1.jpeg?width=640&crop=smart&auto=webp&s=40a02ff0578c458dfbd550734476eeec2a4d8928" alt="Superman">
+                </td>
+            </tr>
+        </table>
+
+    </section>
+
+    <section>
+        <h2 class="box1 brd pad" style="font-size: 35px;">
+            FREEZER ITEMS
+        </h2>
+
+        <!-- Table to align CANNED, DRY GOODS, and the image in a single row -->
+        <table >
+            <tr>
+                <td class="box2 pad">
+                    <h3>VEGGIES</h3>
+                    <ol>
+                        <li>Broccoli</li>
+                        <li>Carrots</li>
+                        <li>Cauliflower</li>
+                        <li>Bell Peppers</li>
+                    </ol>
+                </td>
+
+                <td class="box2 pad">
+                    <h3>SNACKS</h3>
+                    <ol>
+                        <li>Chicen nuggets</li>
+                        <li>Hot pockets</li>
+                        <li>Fries</li>
+                        <li>Tator tots</li>
+                    </ol>
+                </td>
+
+                <!-- Image Box -->
+                <td class="image-box">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Batman_Infobox.jpg/220px-Batman_Infobox.jpg" alt="Batman">
+                </td>
+            </tr>
+        </table>
+
+    </section>
+
+
+</body>
+</html>
