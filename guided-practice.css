@@ -1,0 +1,25 @@
+p:hover { background-color: orange; 
+}
+
+li:nth-child(even) {
+    color: green;
+  }
+
+
+    
+
+
+html, body {
+        height: 100%; /* Ensure parent elements have defined heights */
+        margin: 0; /* Remove default margin */
+    }
+
+    section{
+        height:100%;
+        background-color: lightblue;
+        } 
+
+        header{
+            height: calc(100% - 15px);
+            background-color: lightcoral
+            } 
