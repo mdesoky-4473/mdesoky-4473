@@ -21,5 +21,5 @@ Git • GitHub • Markdown
 [💼 LinkedIn](https://www.linkedin.com/in/mohameddesoky/)  
 [📧 Email](mailto:mae.desoky@gmail.com)
 
-⚡ Fun fact: I have an Indian Springfield Motorcycle.
+⚡ Fun fact: I love adventures on my Indian Springfield Motorcycle.
 
