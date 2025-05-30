@@ -1,13 +1,25 @@
-## Hi there 👋
+## 💻 Tech Stack
 
-Here are some ideas to get you started:
+**Languages & Frameworks**  
+Python • C++ • iOS  
+HTML5 • CSS • JavaScript • Node.js • Express.js • React • Redux
 
-- 🔭 I’m currently working on web development.
-- 🌱 I’m currently learning vs code, html, and java script.
-- 👯 I’m looking to collaborate on finance related web development projects, apart from course projects.
-- 🤔 I’m looking for help with full stack development and fully grasping APIs, along with AI applications.
-- 💬 Ask me about anything related to finance.
-- 📫 How to reach me: mae.desoky@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I have an Indian Springfield Motorcycle.
--->
+**Styling**  
+Bootstrap • Material UI • Sass
+
+**Databases**  
+SQLite • PostgreSQL
+
+**Tools**  
+Git • GitHub • Markdown
+
+---
+
+## 🤝 Connect with Me
+
+[🌐 Website](https://desokycapital.com)  
+[💼 LinkedIn](https://www.linkedin.com/in/mohameddesoky/)  
+[📧 Email](mailto:mae.desoky@gmail.com)
+
+⚡ Fun fact: I have an Indian Springfield Motorcycle.
+
