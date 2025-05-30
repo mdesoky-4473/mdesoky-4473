@@ -1,14 +1,14 @@
 ## 💻 Tech Stack
 
 **Languages & Frameworks**  
-Python • C++ • iOS  
-HTML5 • CSS • JavaScript • Node.js • Express.js • React • Redux
+Python • VBA • R • HTML • CSS • JavaScript 
+Node.js • Express.js • React • Redux
 
 **Styling**  
-Bootstrap • Material UI • Sass
+Tailwind • Material UI
 
 **Databases**  
-SQLite • PostgreSQL
+PostgreSQL
 
 **Tools**  
 Git • GitHub • Markdown
