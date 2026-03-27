@@ -11,12 +11,13 @@ Full-stack engineer and director of a Master in FinTech & Analytics program at W
 - **[credit-risk-ml](https://github.com/mdesoky-4473/credit-risk-ml)** — ML model for credit risk assessment
 - **[finclust](https://github.com/mdesoky-4473/finclust)** — Unsupervised ML for financial behavior segmentation
 - **[epsilon-greedy-fintech-vs-banks](https://github.com/mdesoky-4473/epsilon-greedy-fintech-vs-banks)** — Quantitative analysis of fintech vs traditional banking
+- **[fair-lending-ml](https://github.com/desoky-capital/fair-lending-ml)** — Book manuscript: Building Fair Machine Learning Systems in Financial Services. Covers bias mitigation, model governance, and responsible AI in regulated environments.
 
 ### Tech Stack
-**AI/ML:** LLM APIs (Anthropic, Bedrock) • RAG Pipelines • Prompt Engineering • TF-IDF • Cosine Similarity • scikit-learn
+**AI/ML:** LLM APIs (Anthropic, Bedrock-familiar) • RAG Pipelines • Prompt Engineering • TF-IDF • Cosine Similarity • scikit-learn • Responsible AI
 **Backend:** Python • FastAPI • Node.js • Express • SQL • PostgreSQL
 **Frontend:** JavaScript • React • HTML/CSS
-**Tools:** Git • Docker • AWS • Render • Netlify
+**Tools:** Git • AWS (familiar) • Docker • AWS • Render • Netlify
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/mohameddesoky/) • [Website](https://desokycapital.com)
